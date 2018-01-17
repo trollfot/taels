@@ -11,6 +11,12 @@ def read(filename):
 
 install_requires = [
     'sanic',
+    'dawnlight',
+    'cromlech.security',
+    'crom',
+    'grokker',
+    'zope.interface',
+    'zope.location',
     ]
 
 tests_require = [
